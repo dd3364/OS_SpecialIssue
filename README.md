@@ -36,4 +36,4 @@ Each coding file defines a dictionary `P`:
 - `ai`: the AI report's critique points in report order, in the same format plus a short label.
 - `factcheck`: number of AI statements checked and number of factual errors found.
 
-The source papers, preprints and peer review files are not included. They are available from the journals' websites.
+Source materials (AI reviews, published papers, peer review files and preprints) are in [`materials/`](materials/README.md), where their licenses allow it.
