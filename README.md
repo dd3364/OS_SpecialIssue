@@ -1,4 +1,4 @@
-# OS Special Issue: AI vs Human Referee Reports
+# AI vs. Human in Refereeing Social Science
 
 Materials for the Organization Science proposal comparing AI-written referee reports with the human referee reports on the same papers.
 
